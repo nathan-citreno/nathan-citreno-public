@@ -14,7 +14,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC-12:00",
-                        "alt": -12,
+                        "alt": "-12",
                         "friendly_name": "Baker Island Time"
                     }
                 },
@@ -30,7 +30,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC-11:00",
-                        "alt": -11,
+                        "alt": "-11",
                         "friendly_name": "American Samoa Time"
                     }
                 },
@@ -47,7 +47,7 @@
                     "id": 2,
                     "properties": {
                         "utc_format": "UTC-10:00",
-                        "alt": -10,
+                        "alt": "-10",
                         "friendly_name": "Hawaii-Aleutian Standard Time"
                     }
                 },
@@ -63,7 +63,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC-09:00",
-                        "alt": -9,
+                        "alt": "-9",
                         "friendly_name": "Alaska Standard Time"
                     }
                 },
@@ -80,7 +80,7 @@
                     "id": 4,
                     "properties": {
                         "utc_format": "UTC-08:00",
-                        "alt": -8,
+                        "alt": "-8",
                         "friendly_name": "Pacific Standard Time"
                     }
                 },
@@ -97,7 +97,7 @@
                     "id": 5,
                     "properties": {
                         "utc_format": "UTC-07:00",
-                        "alt": -7,
+                        "alt": "-7",
                         "friendly_name": "Mountain Standard Time"
                     }
                 },
@@ -114,7 +114,7 @@
                     "id": 6,
                     "properties": {
                         "utc_format": "UTC-06:00",
-                        "alt": -6,
+                        "alt": "-6",
                         "friendly_name": "Central Standard Time"
                     }
                 },
@@ -131,7 +131,7 @@
                     "id": 7,
                     "properties": {
                         "utc_format": "UTC-05:00",
-                        "alt": -5,
+                        "alt": "-5",
                         "friendly_name": "Eastern Standard Time"
                     }
                 },
@@ -147,7 +147,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC-04:00",
-                        "alt": -4,
+                        "alt": "-4",
                         "friendly_name": "Atlantic Standard Time"
                     }
                 },
@@ -163,7 +163,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC-03:00",
-                        "alt": -3,
+                        "alt": "-3",
                         "friendly_name": "Argentina Time"
                     }
                 },
@@ -179,7 +179,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC-02:00",
-                        "alt": -2,
+                        "alt": "-2",
                         "friendly_name": "South Georgia Time"
                     }
                 },
@@ -195,7 +195,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC-01:00",
-                        "alt": -1,
+                        "alt": "-1",
                         "friendly_name": "Azores Time"
                     }
                 },
@@ -212,7 +212,7 @@
                     "id": 12,
                     "properties": {
                         "utc_format": "UTC+00:00",
-                        "alt": 0,
+                        "alt": "0",
                         "friendly_name": "Greenwich Mean Time"
                     }
                 },
@@ -228,7 +228,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+01:00",
-                        "alt": 1,
+                        "alt": "1",
                         "friendly_name": "Central European Time"
                     }
                 },
@@ -244,7 +244,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+02:00",
-                        "alt": 2,
+                        "alt": "2",
                         "friendly_name": "Eastern European Time"
                     }
                 },
@@ -260,7 +260,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+03:00",
-                        "alt": 3,
+                        "alt": "3",
                         "friendly_name": "Moscow Time"
                     }
                 },
@@ -276,7 +276,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+04:00",
-                        "alt": 4,
+                        "alt": "4",
                         "friendly_name": "Azerbaijan Time"
                     }
                 },
@@ -292,7 +292,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+05:00",
-                        "alt": 5,
+                        "alt": "5",
                         "friendly_name": "Pakistan Standard Time"
                     }
                 },
@@ -308,7 +308,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+06:00",
-                        "alt": 6,
+                        "alt": "6",
                         "friendly_name": "Bangladesh Standard Time"
                     }
                 },
@@ -324,7 +324,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+07:00",
-                        "alt": 7,
+                        "alt": "7",
                         "friendly_name": "Indochina Time"
                     }
                 },
@@ -340,7 +340,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+08:00",
-                        "alt": 8,
+                        "alt": "8",
                         "friendly_name": "China Standard Time"
                     }
                 },
@@ -356,7 +356,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+09:00",
-                        "alt": 9,
+                        "alt": "9",
                         "friendly_name": "Japan Standard Time"
                     }
                 },
@@ -372,7 +372,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+10:00",
-                        "alt": 10,
+                        "alt": "10",
                         "friendly_name": "Australian Eastern Standard Time"
                     }
                 },
@@ -386,7 +386,7 @@
                     ],
                     "properties": {
                         "utc_format": "UTC+11:00",
-                        "alt": 11,
+                        "alt": "11",
                         "friendly_name": "Solomon Islands Time"
                     }
                 },
