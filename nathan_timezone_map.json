@@ -212,7 +212,7 @@
                     "id": 12,
                     "properties": {
                         "utc_format": "UTC+00:00",
-                        "alt": "0",
+                        "alt": "-0",
                         "friendly_name": "Greenwich Mean Time"
                     }
                 },
