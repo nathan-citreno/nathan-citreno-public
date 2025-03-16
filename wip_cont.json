@@ -28836,18 +28836,6 @@
                     "arcs": [
                         [
                             [
-                                0
-                            ]
-                        ],
-                        [
-                            [
-                                1,
-                                2,
-                                3
-                            ]
-                        ],
-                        [
-                            [
                                 4
                             ]
                         ],
@@ -28916,6 +28904,27 @@
                                 17
                             ]
                         ]
+                    ],
+                    "type": "MultiPolygon",
+                    "properties": {
+                        "continent": "Null"
+                    }
+                },
+                {
+                    "arcs": [
+                        [
+                            [
+                                0
+                            ]
+                        ],
+                        [
+                            [
+                                1,
+                                2,
+                                3
+                            ]
+                        ]
+                        
                     ],
                     "type": "MultiPolygon",
                     "properties": {
